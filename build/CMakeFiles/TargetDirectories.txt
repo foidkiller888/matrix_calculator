@@ -1,0 +1,6 @@
+/home/Honor/matrix_calculator/build/CMakeFiles/matrix.dir
+/home/Honor/matrix_calculator/build/CMakeFiles/matrix_calculator.dir
+/home/Honor/matrix_calculator/build/CMakeFiles/matrix_tests.dir
+/home/Honor/matrix_calculator/build/CMakeFiles/test.dir
+/home/Honor/matrix_calculator/build/CMakeFiles/edit_cache.dir
+/home/Honor/matrix_calculator/build/CMakeFiles/rebuild_cache.dir

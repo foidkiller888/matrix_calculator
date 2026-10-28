@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,60,140"/>
+<area shape="rect" id="Node000002" href="$matrix_8cpp.html#a00b3eed9347d1300084aa9b4b59faa14" title="Создаёт матрицу заданного размера." alt="" coords="281,86,393,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,111,61,64,81,39,106,20,140,6,169,3,199,8,234,20,278,43,315,74,310,75,275,47,232,24,197,14,169,8,141,11,109,24,85,43,65,66,41,113"/>
+<area shape="rect" id="Node000003" href="$matrix_8cpp.html#aeb634f45f24e14880fefdc366918b590" title="Освобождает память, занятую матрицей." alt="" coords="122,34,219,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="50,110,106,72,121,66,117,70,109,76,54,114"/>
+<area shape="rect" id="Node000004" href="$matrix_8cpp.html#a9014473cbaf4b0b77b3d5d2a0bf4d670" title="Складывает две матрицы." alt="" coords="123,86,218,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="59,119,109,110,105,114,61,123"/>
+<area shape="rect" id="Node000005" href="$matrix_8cpp.html#acc1e584357fbf60367c8d58c52a6527b" title="Находит минимальный элемент матрицы." alt="" coords="122,138,218,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="59,128,109,138,105,141,61,134"/>
+<area shape="rect" id="Node000006" href="$matrix_8cpp.html#a7ecabc053e7625ca710f1e822e682262" title="Умножает две матрицы." alt="" coords="108,190,233,217"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="53,138,109,174,121,182,116,183,106,179,52,143"/>
+<area shape="rect" id="Node000007" href="$matrix_8cpp.html#ae8da74aa2055db4e0da75ac0c0be8518" title="Выводит матрицу на экран." alt="" coords="120,242,221,269"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="42,138,69,182,88,206,109,227,117,234,112,234,106,231,84,209,65,185,40,143"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="218,97,268,98,263,100,219,102"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="208,187,232,174,271,148,306,125,310,122,275,152,234,179,210,191"/>
+</map>

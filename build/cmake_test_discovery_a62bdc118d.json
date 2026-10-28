@@ -1,0 +1,27 @@
+{
+  "tests": 3,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "MatrixTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "Addition",
+          "file": "\/home\/Honor\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 6
+        },
+        {
+          "name": "Multiplication",
+          "file": "\/home\/Honor\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 33
+        },
+        {
+          "name": "MinimumElement",
+          "file": "\/home\/Honor\/matrix_calculator\/tests\/test_matrix.cpp",
+          "line": 60
+        }
+      ]
+    }
+  ]
+}
