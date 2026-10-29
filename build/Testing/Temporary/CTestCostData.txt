@@ -1,4 +1,0 @@
-MatrixTest.Addition 2 0.00382357
-MatrixTest.Multiplication 2 0.00206684
-MatrixTest.MinimumElement 2 0.00209546
----

@@ -1,7 +1,0 @@
-add_test([=[MatrixTest.Addition]=]  /home/Honor/matrix_calculator/build/matrix_tests [==[--gtest_filter=MatrixTest.Addition]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[MatrixTest.Addition]=]  PROPERTIES DEF_SOURCE_LINE /home/Honor/matrix_calculator/tests/test_matrix.cpp:6 WORKING_DIRECTORY /home/Honor/matrix_calculator/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[MatrixTest.Multiplication]=]  /home/Honor/matrix_calculator/build/matrix_tests [==[--gtest_filter=MatrixTest.Multiplication]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[MatrixTest.Multiplication]=]  PROPERTIES DEF_SOURCE_LINE /home/Honor/matrix_calculator/tests/test_matrix.cpp:33 WORKING_DIRECTORY /home/Honor/matrix_calculator/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[MatrixTest.MinimumElement]=]  /home/Honor/matrix_calculator/build/matrix_tests [==[--gtest_filter=MatrixTest.MinimumElement]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[MatrixTest.MinimumElement]=]  PROPERTIES DEF_SOURCE_LINE /home/Honor/matrix_calculator/tests/test_matrix.cpp:60 WORKING_DIRECTORY /home/Honor/matrix_calculator/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  matrix_tests_TESTS MatrixTest.Addition MatrixTest.Multiplication MatrixTest.MinimumElement)

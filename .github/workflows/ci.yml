@@ -1,5 +1,5 @@
 
-name: Matrix Calculator CI
+name:  Полный цикл разработки калькулятора матриц на C++
 
 on:
   push:
